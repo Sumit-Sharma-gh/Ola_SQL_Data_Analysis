@@ -1,0 +1,87 @@
+🟢 LEVEL 1 — Basic SELECT & Filtering
+
+Display all completed rides.
+
+Show all cancelled rides with their cancelled reason.
+
+List all rides done by driver “Arun”.
+
+Display only those rides where fare_amount > 300.
+
+Show rides where payment method is UPI.
+
+Show all rides taken by customer “Priya” in January 2025.
+
+Display total number of rides in the dataset.
+
+Count how many rides were cancelled.
+
+List distinct pickup locations.
+
+Show top 10 rides with highest fare_amount.
+
+🟡 LEVEL 2 — Aggregation & Grouping
+
+Find the total number of rides per driver.
+
+Find the average fare per payment method.
+
+Find the highest rating each driver received.
+
+Show the total distance travelled from each pickup location.
+
+### Display the average fare per month (Jan, Feb, Mar).
+
+Find which customer took the most number of rides.
+
+Show total rides, completed rides, and cancelled rides count together.
+
+Find total earnings per driver (sum of fare_amount).
+
+Display average ride time per driver.
+
+Find how many rides were rated 5 stars.
+
+🔵 LEVEL 3 — Conditional Logic & Advanced Filtering
+
+Show rides where rating is NULL (means cancelled).
+
+Find all rides where distance > 10 km but fare < 200 (unusual rides).
+
+Display all cancelled rides due to “Customer no-show”.
+
+Find all customers who have given at least one rating = 5.
+
+Find total rides & average fare for each status (Completed/Cancelled).
+
+Show drivers who earned more than ₹5000 total.
+
+Show customers whose average rating is below 4.
+
+Find the driver who completed the longest distance overall.
+
+List all rides where pickup_location and drop_location are both in metro cities (Delhi, Mumbai, Bangalore, Chennai, Kolkata).
+
+Display all rides that happened in February 2025.
+
+🔴 LEVEL 4 — Real-World Query Scenarios
+
+Find driver(s) with the highest total earnings.
+
+Find customer(s) who cancelled most rides.
+
+Calculate the total distance travelled and average fare per month.
+
+Show top 5 highest-rated drivers based on average rating.
+
+Find top 3 cities with the most completed rides.
+
+Display day-wise ride count (how many rides on each date).
+
+Show payment method preference by customers (most used).
+
+Display fare per km for each ride and sort descending.
+
+Find which day had the maximum number of cancelled rides.
+
+List rides with fare per minute greater than ₹10.
