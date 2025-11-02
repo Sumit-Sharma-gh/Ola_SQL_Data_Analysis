@@ -1,0 +1,151 @@
+ride_id,ride_date,customer_name,driver_name,pickup_location,drop_location,distance_km,ride_time_min,fare_amount,payment_method,rating,status,cancelled_reason
+OLA0001,2025-02-11,Ritu,Arun,Chennai,Mumbai,28.4,70,677.26,UPI,3.0,Completed,
+OLA0002,2025-03-07,Karan,Rajesh,Mumbai,Chennai,2.6,7,41.4,UPI,4.0,Completed,
+OLA0003,2025-01-16,Anjali,Pawan,Patna,Hyderabad,7.7,16,116.16,Wallet,5.0,Completed,
+OLA0004,2025-02-28,Rohit,Deepak,Bangalore,Hyderabad,17.5,37,0.0,Cash,,Cancelled,Technical issue
+OLA0005,2025-02-25,Rohit,Deepak,Delhi,Patna,10.6,22,0.0,Cash,,Cancelled,Customer no-show
+OLA0006,2025-03-13,Karan,Arun,Bhubaneswar,Cuttack,27.1,58,0.0,UPI,,Cancelled,Driver didn’t arrive
+OLA0007,2025-03-26,Anjali,Arun,Bhubaneswar,Mumbai,12.2,32,246.98,Card,4.0,Completed,
+OLA0008,2025-02-19,Amit,Deepak,Chennai,Bangalore,18.7,41,323.28,Wallet,4.0,Completed,
+OLA0009,2025-01-11,Anjali,Aakash,Bangalore,Kolkata,2.2,6,46.87,UPI,3.0,Completed,
+OLA0010,2025-02-22,Rohit,Aakash,Hyderabad,Cuttack,14.3,33,289.8,Card,5.0,Completed,
+OLA0011,2025-03-09,Priya,Suresh,Cuttack,Pune,3.6,11,65.58,Wallet,4.0,Completed,
+OLA0012,2025-01-10,Priya,Rajesh,Delhi,Bangalore,3.7,11,82.86,UPI,4.0,Completed,
+OLA0013,2025-03-29,Vikas,Sunil,Delhi,Pune,2.4,6,35.81,Card,3.0,Completed,
+OLA0014,2025-02-23,Anjali,Deepak,Chennai,Mumbai,5.8,15,90.67,Cash,3.0,Completed,
+OLA0015,2025-03-04,Divya,Manoj,Chennai,Bhubaneswar,19.2,48,332.59,Cash,5.0,Completed,
+OLA0016,2025-02-15,Divya,Pawan,Cuttack,Pune,10.6,24,176.13,UPI,4.0,Completed,
+OLA0017,2025-03-17,Priya,Deepak,Delhi,Bangalore,10.6,32,0.0,UPI,,Cancelled,Driver didn’t arrive
+OLA0018,2025-03-13,Priya,Suresh,Cuttack,Kolkata,6.3,16,152.0,Card,4.0,Completed,
+OLA0019,2025-01-07,Rohit,Rajesh,Chennai,Hyderabad,26.5,73,0.0,UPI,,Cancelled,Technical issue
+OLA0020,2025-01-19,Anjali,Aakash,Cuttack,Chennai,8.9,20,221.26,Cash,4.0,Completed,
+OLA0021,2025-02-26,Anjali,Rajesh,Cuttack,Chennai,9.9,22,0.0,Card,,Cancelled,Driver didn’t arrive
+OLA0022,2025-03-02,Neha,Ravi,Mumbai,Bhubaneswar,12.8,27,227.92,Card,4.0,Completed,
+OLA0023,2025-03-22,Priya,Vivek,Bangalore,Bhubaneswar,31.2,71,639.82,UPI,4.0,Completed,
+OLA0024,2025-03-10,Karan,Suresh,Pune,Kolkata,29.7,77,398.68,UPI,4.0,Completed,
+OLA0025,2025-02-12,Ritu,Ravi,Cuttack,Bangalore,26.7,62,268.94,Wallet,5.0,Completed,
+OLA0026,2025-01-16,Vikas,Aakash,Chennai,Bangalore,20.2,54,0.0,Cash,,Cancelled,Driver didn’t arrive
+OLA0027,2025-01-06,Amit,Ravi,Mumbai,Kolkata,26.7,54,0.0,Card,,Cancelled,Driver didn’t arrive
+OLA0028,2025-02-21,Ritu,Arun,Pune,Kolkata,9.4,21,97.68,Wallet,3.0,Completed,
+OLA0029,2025-01-17,Vikas,Deepak,Bhubaneswar,Chennai,5.4,12,0.0,Cash,,Cancelled,Driver didn’t arrive
+OLA0030,2025-03-29,Ritu,Sunil,Delhi,Bangalore,12.9,34,215.29,UPI,3.0,Completed,
+OLA0031,2025-02-12,Divya,Deepak,Patna,Cuttack,27.1,66,0.0,UPI,,Cancelled,Technical issue
+OLA0032,2025-03-09,Priya,Rajesh,Cuttack,Chennai,25.2,74,0.0,Cash,,Cancelled,Technical issue
+OLA0033,2025-02-25,Amit,Ravi,Kolkata,Chennai,27.4,66,671.3,Cash,5.0,Completed,
+OLA0034,2025-02-09,Amit,Deepak,Hyderabad,Bhubaneswar,23.1,67,404.56,Wallet,5.0,Completed,
+OLA0035,2025-02-12,Karan,Arun,Patna,Mumbai,2.9,7,29.11,UPI,5.0,Completed,
+OLA0036,2025-01-29,Vikas,Rajesh,Bangalore,Hyderabad,13.5,37,316.03,UPI,5.0,Completed,
+OLA0037,2025-03-17,Amit,Arun,Patna,Bangalore,21.5,59,296.59,Cash,5.0,Completed,
+OLA0038,2025-02-01,Vikas,Suresh,Pune,Bhubaneswar,5.1,12,68.9,Card,5.0,Completed,
+OLA0039,2025-01-19,Priya,Manoj,Pune,Hyderabad,19.0,55,194.64,Wallet,3.0,Completed,
+OLA0040,2025-02-03,Priya,Aakash,Pune,Delhi,19.9,41,319.12,Cash,3.0,Completed,
+OLA0041,2025-02-20,Neha,Vivek,Bangalore,Cuttack,31.1,68,608.44,UPI,5.0,Completed,
+OLA0042,2025-03-31,Ritu,Manoj,Delhi,Bangalore,6.8,15,73.15,UPI,3.0,Completed,
+OLA0043,2025-02-17,Rohit,Vivek,Chennai,Bhubaneswar,32.8,82,813.71,UPI,5.0,Completed,
+OLA0044,2025-03-11,Divya,Manoj,Bangalore,Bhubaneswar,17.3,48,257.61,UPI,4.0,Completed,
+OLA0045,2025-02-10,Amit,Arun,Hyderabad,Kolkata,27.0,76,0.0,Wallet,,Cancelled,Payment issue
+OLA0046,2025-03-13,Karan,Vivek,Chennai,Cuttack,3.9,11,0.0,Cash,,Cancelled,Customer no-show
+OLA0047,2025-01-26,Priya,Deepak,Mumbai,Bhubaneswar,32.4,74,0.0,Cash,,Cancelled,Traffic delay
+OLA0048,2025-01-02,Priya,Manoj,Hyderabad,Cuttack,14.6,32,250.49,Card,3.0,Completed,
+OLA0049,2025-02-14,Ritu,Arun,Mumbai,Chennai,4.6,11,113.12,Wallet,4.0,Completed,
+OLA0050,2025-01-29,Anjali,Rajesh,Bangalore,Mumbai,8.8,19,209.86,Wallet,5.0,Completed,
+OLA0051,2025-02-07,Rohit,Rajesh,Patna,Chennai,27.5,80,529.81,Cash,4.0,Completed,
+OLA0052,2025-03-16,Anjali,Suresh,Bhubaneswar,Delhi,12.2,29,183.6,Card,4.0,Completed,
+OLA0053,2025-03-21,Neha,Manoj,Cuttack,Kolkata,26.2,65,459.03,Cash,5.0,Completed,
+OLA0054,2025-02-28,Anjali,Sunil,Pune,Hyderabad,2.8,7,0.0,Wallet,,Cancelled,Customer no-show
+OLA0055,2025-01-25,Amit,Aakash,Pune,Mumbai,14.2,37,144.84,Card,5.0,Completed,
+OLA0056,2025-02-16,Priya,Pawan,Pune,Delhi,7.9,22,0.0,Cash,,Cancelled,Traffic delay
+OLA0057,2025-01-27,Divya,Arun,Delhi,Mumbai,32.3,73,789.19,Card,4.0,Completed,
+OLA0058,2025-01-23,Rohit,Sunil,Mumbai,Delhi,14.9,36,273.59,UPI,4.0,Completed,
+OLA0059,2025-02-03,Divya,Ravi,Bhubaneswar,Kolkata,15.9,34,171.88,Card,5.0,Completed,
+OLA0060,2025-02-11,Rohit,Aakash,Hyderabad,Patna,27.2,73,378.87,Cash,4.0,Completed,
+OLA0061,2025-01-21,Neha,Ravi,Pune,Mumbai,12.7,26,0.0,UPI,,Cancelled,Traffic delay
+OLA0062,2025-01-01,Rohit,Arun,Kolkata,Bangalore,28.7,66,688.5,Cash,5.0,Completed,
+OLA0063,2025-03-22,Divya,Sunil,Patna,Pune,21.1,62,247.95,Cash,5.0,Completed,
+OLA0064,2025-01-02,Sanjay,Deepak,Cuttack,Pune,3.9,11,92.19,Cash,4.0,Completed,
+OLA0065,2025-01-30,Sanjay,Deepak,Delhi,Cuttack,13.5,32,298.39,Card,4.0,Completed,
+OLA0066,2025-03-19,Amit,Vivek,Cuttack,Chennai,32.5,73,637.33,Card,5.0,Completed,
+OLA0067,2025-02-23,Amit,Suresh,Bhubaneswar,Chennai,34.1,69,781.93,Card,3.0,Completed,
+OLA0068,2025-01-29,Divya,Pawan,Hyderabad,Mumbai,20.3,46,274.65,UPI,3.0,Completed,
+OLA0069,2025-03-09,Neha,Pawan,Delhi,Kolkata,20.6,49,300.83,Wallet,4.0,Completed,
+OLA0070,2025-03-26,Rohit,Suresh,Chennai,Delhi,15.9,40,0.0,Wallet,,Cancelled,Payment issue
+OLA0071,2025-01-19,Neha,Arun,Patna,Cuttack,34.2,91,825.03,Card,4.0,Completed,
+OLA0072,2025-03-08,Ritu,Pawan,Chennai,Bangalore,12.8,38,219.71,Cash,3.0,Completed,
+OLA0073,2025-02-27,Sanjay,Arun,Patna,Mumbai,16.8,37,297.82,UPI,3.0,Completed,
+OLA0074,2025-01-16,Anjali,Pawan,Hyderabad,Kolkata,14.3,31,185.7,Wallet,3.0,Completed,
+OLA0075,2025-03-10,Rohit,Vivek,Chennai,Cuttack,31.0,88,472.49,UPI,3.0,Completed,
+OLA0076,2025-02-15,Neha,Manoj,Patna,Kolkata,10.4,22,0.0,UPI,,Cancelled,Traffic delay
+OLA0077,2025-02-06,Amit,Pawan,Bhubaneswar,Patna,27.5,63,621.68,Card,4.0,Completed,
+OLA0078,2025-02-11,Rohit,Sunil,Bhubaneswar,Chennai,7.3,20,172.11,Card,4.0,Completed,
+OLA0079,2025-03-21,Vikas,Manoj,Kolkata,Chennai,9.5,19,175.72,UPI,5.0,Completed,
+OLA0080,2025-03-01,Priya,Vivek,Cuttack,Chennai,14.1,40,142.28,Cash,3.0,Completed,
+OLA0081,2025-02-05,Neha,Ravi,Patna,Cuttack,26.6,68,359.38,Cash,5.0,Completed,
+OLA0082,2025-02-15,Vikas,Suresh,Cuttack,Bhubaneswar,20.4,54,381.94,Card,4.0,Completed,
+OLA0083,2025-01-15,Priya,Pawan,Hyderabad,Cuttack,3.1,7,55.62,UPI,5.0,Completed,
+OLA0084,2025-03-30,Amit,Arun,Pune,Patna,19.1,50,0.0,Wallet,,Cancelled,Driver didn’t arrive
+OLA0085,2025-01-02,Priya,Rajesh,Chennai,Delhi,5.4,14,69.28,Card,3.0,Completed,
+OLA0086,2025-01-31,Neha,Ravi,Bangalore,Mumbai,2.7,6,43.62,Cash,4.0,Completed,
+OLA0087,2025-03-14,Sanjay,Rajesh,Delhi,Cuttack,18.6,49,285.89,Card,4.0,Completed,
+OLA0088,2025-03-22,Neha,Manoj,Patna,Chennai,21.9,44,451.66,UPI,3.0,Completed,
+OLA0089,2025-01-27,Ritu,Manoj,Kolkata,Bangalore,17.1,35,389.51,UPI,4.0,Completed,
+OLA0090,2025-02-05,Sanjay,Manoj,Patna,Chennai,12.4,27,239.25,UPI,4.0,Completed,
+OLA0091,2025-03-28,Sanjay,Vivek,Kolkata,Cuttack,32.8,82,0.0,Cash,,Cancelled,Customer no-show
+OLA0092,2025-01-20,Rohit,Pawan,Cuttack,Pune,11.2,31,0.0,UPI,,Cancelled,Customer no-show
+OLA0093,2025-03-01,Priya,Sunil,Kolkata,Chennai,22.1,55,522.47,UPI,3.0,Completed,
+OLA0094,2025-01-19,Karan,Suresh,Patna,Chennai,32.4,91,0.0,Card,,Cancelled,Traffic delay
+OLA0095,2025-01-16,Anjali,Pawan,Pune,Bangalore,5.8,16,0.0,Cash,,Cancelled,Payment issue
+OLA0096,2025-03-18,Ritu,Pawan,Cuttack,Bhubaneswar,27.0,56,0.0,Cash,,Cancelled,Customer no-show
+OLA0097,2025-02-04,Anjali,Deepak,Kolkata,Delhi,14.6,33,0.0,Wallet,,Cancelled,Traffic delay
+OLA0098,2025-03-15,Divya,Arun,Pune,Chennai,31.8,87,647.57,Wallet,5.0,Completed,
+OLA0099,2025-02-11,Sanjay,Aakash,Bangalore,Cuttack,29.9,77,718.73,Card,3.0,Completed,
+OLA0100,2025-03-06,Amit,Vivek,Mumbai,Chennai,22.8,56,367.04,Wallet,3.0,Completed,
+OLA0101,2025-02-11,Priya,Manoj,Cuttack,Mumbai,7.6,21,122.87,Wallet,3.0,Completed,
+OLA0102,2025-03-19,Sanjay,Pawan,Hyderabad,Chennai,25.7,74,0.0,Wallet,,Cancelled,Technical issue
+OLA0103,2025-02-05,Rohit,Arun,Bhubaneswar,Chennai,24.5,62,503.39,Cash,4.0,Completed,
+OLA0104,2025-03-04,Sanjay,Manoj,Pune,Bhubaneswar,26.0,65,0.0,Card,,Cancelled,Customer no-show
+OLA0105,2025-02-14,Divya,Sunil,Hyderabad,Cuttack,24.9,64,254.73,Wallet,3.0,Completed,
+OLA0106,2025-01-24,Ritu,Deepak,Chennai,Pune,25.4,76,542.13,Cash,4.0,Completed,
+OLA0107,2025-02-06,Sanjay,Rajesh,Delhi,Chennai,7.7,20,116.22,UPI,5.0,Completed,
+OLA0108,2025-03-18,Anjali,Rajesh,Mumbai,Cuttack,4.8,13,67.18,Card,3.0,Completed,
+OLA0109,2025-03-04,Anjali,Sunil,Delhi,Cuttack,17.6,45,290.96,Card,3.0,Completed,
+OLA0110,2025-02-08,Divya,Aakash,Delhi,Cuttack,33.4,93,513.07,Wallet,4.0,Completed,
+OLA0111,2025-02-01,Sanjay,Deepak,Hyderabad,Patna,23.2,65,0.0,Cash,,Cancelled,Payment issue
+OLA0112,2025-02-18,Neha,Deepak,Bhubaneswar,Delhi,14.7,39,172.27,Wallet,3.0,Completed,
+OLA0113,2025-01-23,Karan,Vivek,Hyderabad,Mumbai,7.7,20,158.4,UPI,5.0,Completed,
+OLA0114,2025-03-08,Priya,Arun,Bhubaneswar,Kolkata,11.4,26,154.46,UPI,4.0,Completed,
+OLA0115,2025-01-01,Ritu,Ravi,Patna,Hyderabad,13.3,28,199.11,Cash,4.0,Completed,
+OLA0116,2025-01-07,Sanjay,Arun,Bangalore,Kolkata,18.1,37,230.87,UPI,4.0,Completed,
+OLA0117,2025-02-04,Vikas,Manoj,Mumbai,Delhi,33.9,101,359.79,Wallet,3.0,Completed,
+OLA0118,2025-03-18,Rohit,Manoj,Delhi,Cuttack,30.1,87,0.0,Card,,Cancelled,Technical issue
+OLA0119,2025-01-01,Sanjay,Vivek,Cuttack,Hyderabad,18.8,48,386.57,Card,5.0,Completed,
+OLA0120,2025-02-26,Rohit,Deepak,Kolkata,Mumbai,26.8,55,508.16,Cash,4.0,Completed,
+OLA0121,2025-02-05,Divya,Deepak,Bhubaneswar,Patna,28.7,67,695.23,Cash,4.0,Completed,
+OLA0122,2025-01-06,Anjali,Deepak,Pune,Delhi,4.8,11,55.79,Wallet,5.0,Completed,
+OLA0123,2025-02-01,Neha,Sunil,Hyderabad,Bhubaneswar,4.1,10,0.0,Cash,,Cancelled,Traffic delay
+OLA0124,2025-02-04,Anjali,Sunil,Cuttack,Kolkata,27.6,82,491.31,UPI,5.0,Completed,
+OLA0125,2025-01-11,Rohit,Deepak,Bhubaneswar,Delhi,16.6,37,406.1,UPI,3.0,Completed,
+OLA0126,2025-02-10,Rohit,Arun,Cuttack,Bhubaneswar,6.7,14,148.07,Cash,3.0,Completed,
+OLA0127,2025-01-26,Anjali,Aakash,Chennai,Bhubaneswar,31.8,91,652.36,Cash,3.0,Completed,
+OLA0128,2025-03-03,Sanjay,Ravi,Bhubaneswar,Cuttack,21.2,63,0.0,UPI,,Cancelled,Payment issue
+OLA0129,2025-02-14,Anjali,Aakash,Mumbai,Bhubaneswar,22.5,67,449.36,Cash,5.0,Completed,
+OLA0130,2025-03-09,Anjali,Manoj,Patna,Bhubaneswar,5.0,14,65.15,Wallet,4.0,Completed,
+OLA0131,2025-01-16,Rohit,Aakash,Chennai,Cuttack,9.8,23,169.18,Wallet,4.0,Completed,
+OLA0132,2025-03-23,Sanjay,Vivek,Bhubaneswar,Delhi,24.2,54,408.86,UPI,5.0,Completed,
+OLA0133,2025-02-03,Divya,Vivek,Pune,Chennai,10.6,24,0.0,Cash,,Cancelled,Driver didn’t arrive
+OLA0134,2025-01-18,Sanjay,Rajesh,Chennai,Bhubaneswar,22.4,60,227.01,Card,3.0,Completed,
+OLA0135,2025-02-20,Priya,Arun,Chennai,Pune,3.3,9,44.57,Wallet,5.0,Completed,
+OLA0136,2025-01-09,Divya,Arun,Pune,Delhi,13.1,36,215.39,UPI,3.0,Completed,
+OLA0137,2025-03-08,Amit,Vivek,Delhi,Hyderabad,30.1,83,734.67,Wallet,5.0,Completed,
+OLA0138,2025-01-17,Sanjay,Manoj,Patna,Hyderabad,3.1,9,44.13,Wallet,5.0,Completed,
+OLA0139,2025-02-03,Anjali,Rajesh,Pune,Kolkata,27.4,60,637.09,Card,4.0,Completed,
+OLA0140,2025-02-26,Amit,Manoj,Pune,Mumbai,19.2,49,370.33,Card,4.0,Completed,
+OLA0141,2025-01-01,Rohit,Sunil,Hyderabad,Delhi,11.1,31,255.0,Cash,5.0,Completed,
+OLA0142,2025-01-15,Vikas,Pawan,Mumbai,Kolkata,26.5,60,657.47,Wallet,5.0,Completed,
+OLA0143,2025-03-02,Karan,Rajesh,Chennai,Mumbai,5.9,17,0.0,Wallet,,Cancelled,Driver didn’t arrive
+OLA0144,2025-02-08,Karan,Deepak,Delhi,Bhubaneswar,31.0,76,426.58,Wallet,4.0,Completed,
+OLA0145,2025-01-31,Vikas,Aakash,Patna,Mumbai,9.0,22,90.8,Card,4.0,Completed,
+OLA0146,2025-02-17,Karan,Suresh,Bhubaneswar,Chennai,26.8,65,0.0,UPI,,Cancelled,Customer no-show
+OLA0147,2025-03-18,Rohit,Suresh,Hyderabad,Bangalore,7.5,19,0.0,Wallet,,Cancelled,Payment issue
+OLA0148,2025-01-27,Vikas,Arun,Delhi,Chennai,4.7,13,83.39,UPI,3.0,Completed,
+OLA0149,2025-03-17,Ritu,Aakash,Kolkata,Cuttack,12.0,34,289.26,Card,3.0,Completed,
+OLA0150,2025-03-14,Ritu,Suresh,Mumbai,Pune,18.8,56,0.0,UPI,,Cancelled,Driver didn’t arrive
